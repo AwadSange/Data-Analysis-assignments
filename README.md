@@ -1,5 +1,5 @@
 # Data-Analysis-assignments
-This are all the assignment required to be completed for certification
+These are all the assignments required to be completed for certification
 It includes:
 - Arithmatice Functions
 - Charts
